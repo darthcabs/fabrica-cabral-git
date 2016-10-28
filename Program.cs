@@ -6,6 +6,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("<html>\t</html>")
+            Console.WriteLine("<head>\t</head>")
         }
     }
 }
